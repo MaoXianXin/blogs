@@ -25,7 +25,7 @@ conda config --set show_channel_urls yes
 # 创建虚拟环境
 
 ```
-conda create -n tf2 python=3.8
+conda create -n tf2 python=3.8(如果遇到创建失败，一般是由于网络引起，多执行几次就好)
 ```
 
 ![](https://maoxianxin1996.oss-accelerate.aliyuncs.com/environment/tensorflow/createEnvs.png)
