@@ -5,3 +5,16 @@
 3. Tensorflow安装
 4. 其它函数库安装
 5. Pytorch安装
+
+# 软件使用指南
+
+1. Xmind使用
+
+# 实验结果
+
+## flower_photos
+
+1. resnet50
+2. dense121
+3. resnext50_32x4d
+
