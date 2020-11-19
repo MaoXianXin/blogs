@@ -1,10 +1,14 @@
 batch_size = 96
 
-lr = 1e-2
+lr = 5e-3
 
 momentum = 0.5
 
-[62,    31] loss: 0.084
-Accuracy of the network on the dataset: 99.6251 %
+[196,    31] loss: 0.002
+Accuracy of the network on the dataset: 99.9318 %
 Accuracy of the network on the dataset: 95.5163 %
-------saving best model------
+Accuracy of daisy : 95 %
+Accuracy of dandelion : 98 %
+Accuracy of roses : 92 %
+Accuracy of sunflowers : 97 %
+Accuracy of tulips : 93 %

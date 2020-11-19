@@ -15,6 +15,4 @@
 ## flower_photos
 
 1. resnet50
-2. dense121
-3. resnext50_32x4d
 
