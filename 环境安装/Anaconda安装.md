@@ -1,6 +1,6 @@
 # 下载Anaconda
 
-![](https://maoxianxin1996.oss-accelerate.aliyuncs.com/environment/anaconda/AnacondaDownload.png)
+![](https://maoxianxin1996.oss-accelerate.aliyuncs.com/environment/anaconda/20201123194316.png))
 
 链接：https://pan.baidu.com/s/1K7D7iGiImkY0Lo8c1tptMA 
 提取码：d864 
