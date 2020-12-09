@@ -2,9 +2,9 @@
 
 ![](https://maoxianxin1996.oss-accelerate.aliyuncs.com/environment/anaconda/20201123194316.png))
 
-链接：https://pan.baidu.com/s/1F2GKjTfM4_Eo9S80GxGvEw 
-提取码：o8zz 
-复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V4的分享
+链接：https://pan.baidu.com/s/1N075IYBa2rWedJhbDdSyMQ 
+提取码：f1vr 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 
 # 软件下载位置
 
